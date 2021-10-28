@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T18:19:07.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VTsvVR8P65TenwSHU_1-" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T18:22:55.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YwOVF3cEKYzKmaeKv2U5" version="15.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1016" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -349,16 +349,16 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-163" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;fillColor=#d0cee2;align=center;verticalAlign=middle;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="585" y="2265" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-168" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-168" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="215" y="1340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-169" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-169" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="335" y="1340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-170" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-170" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="465" y="1340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-171" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-171" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="586" y="1340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-172" value="&lt;span style=&quot;font-size: 16px&quot;&gt;START POSITION&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
@@ -373,10 +373,10 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-175" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE ITS PAWN HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1739" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-176" value="min.&lt;br&gt;3 PWR" style="shape=or;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-176" value="" style="shape=or;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="2040" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-177" value="one of each" style="shape=or;whiteSpace=wrap;html=1;align=center;rotation=180;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;horizontal=0;textDirection=rtl;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-177" value="" style="shape=or;align=center;rotation=180;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="255" y="2040" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-178" value="" style="shape=or;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" vertex="1" parent="1">
@@ -386,7 +386,7 @@
           <mxGeometry x="505" y="2040" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-180" value="&amp;nbsp;Only one Pawn may occupy each field at any time" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="180" y="2140" width="480" height="30" as="geometry" />
+          <mxGeometry x="180" y="2150" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-181" value="&amp;nbsp;Pawns that reach this field subsequently start here" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="180" y="2170" width="480" height="30" as="geometry" />
@@ -426,6 +426,12 @@
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-192" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="580" y="1548" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xXZptcnk_brkqJqVmBfV-198" value="&lt;i&gt;at least&lt;br&gt;3 PWR&lt;br&gt;total&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2040" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xXZptcnk_brkqJqVmBfV-201" value="&lt;i&gt;exactly&lt;br&gt;5 PWR&lt;br&gt;total&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2040" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
