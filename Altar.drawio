@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T18:34:36.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="zBDxGQQ_cp057xFVnGvq" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T18:35:20.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="z8zYf9wJZlZiwt-TV-1Q" version="15.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1497" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-136" value="&lt;font&gt;III&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#CCCCCC;gradientColor=none;verticalAlign=middle;horizontal=0;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1960" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-139" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;MANIFEST NEMESIS&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;immediately when all Pawns reach this position&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;verticalAlign=bottom;align=left;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-139" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;MANIFEST NEMESIS&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;immediately when all Pawns reach this position&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#99004D;verticalAlign=bottom;align=left;" vertex="1" parent="1">
           <mxGeometry x="180" y="2369" width="470" height="85" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-141" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;THREE DIFFERENT&amp;nbsp;&lt;/b&gt;CREATURES &lt;b&gt;DURING A HUNT&lt;br&gt;&lt;/b&gt;TO ADVANCE THE PAWN OF &lt;b&gt;THE FOURTH&lt;/b&gt; HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
