@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T17:40:14.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="e7unRrokCRaHYJdS0miH" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T17:41:07.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="jjEWLKLChwGA1P9k8cgI" version="15.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1016" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-56" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE AT LEAST TWO CREATURES DURING A HUNT&lt;br&gt;TO ADVANCE THEIR PAWN&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-56" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;AT LEAST TWO&lt;/b&gt; CREATURES &lt;b&gt;OF A KIND&lt;/b&gt;&lt;br&gt;&lt;b&gt;DURING A HUNT&lt;/b&gt; TO ADVANCE THEIR PAWN HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1510" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-60" value="&lt;span style=&quot;font-size: 36px&quot;&gt;6&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
