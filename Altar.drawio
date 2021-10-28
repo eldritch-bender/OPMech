@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T17:48:23.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="vk01XG2EhgYZ4WVxYint" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T17:51:00.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="nIBdIHzA4oro2iFYWI10" version="15.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1016" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-88" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#cccccc;" vertex="1" parent="1">
           <mxGeometry x="120" y="1960" width="600" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-95" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;SACRIFICE &lt;b&gt;TWO&lt;/b&gt; CREATURES TO ADVANCE &lt;b&gt;ONE PAWN&lt;/b&gt; HERE&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-95" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;SACRIFICE &lt;b&gt;A PAIR&lt;/b&gt;&amp;nbsp;OF&amp;nbsp;CREATURES &lt;b&gt;DURING A HUNT&lt;/b&gt;&lt;br&gt;TO ADVANCE &lt;b&gt;ONE PAWN&lt;/b&gt; HERE&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1985" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-99" value="&lt;span style=&quot;font-size: 36px&quot;&gt;8&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
@@ -385,10 +385,10 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-175" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE ITS PAWN HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1739" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-176" value="" style="shape=or;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-176" value="min.&lt;br&gt;3 PWR" style="shape=or;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="2040" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-177" value="" style="shape=or;whiteSpace=wrap;html=1;align=center;rotation=-180;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-177" value="one of each" style="shape=or;whiteSpace=wrap;html=1;align=center;rotation=180;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;horizontal=0;textDirection=rtl;" vertex="1" parent="1">
           <mxGeometry x="255" y="2040" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-178" value="" style="shape=or;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" vertex="1" parent="1">
