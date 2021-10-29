@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T21:50:22.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="CYhdep1Rmbo4hgGnv_ew" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T21:54:32.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="EPEV8SxPwgsjyzUzJR79" version="15.6.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2370" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g3FacJts447bwH2BUUsu-43" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="19" width="600" height="230" as="geometry" />
+          <mxGeometry x="90" y="20" width="600" height="230" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="99" width="80" height="80" as="geometry" />
@@ -98,19 +98,19 @@
           <mxGeometry x="90" y="940" width="600" height="230" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-109" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="169.5" y="1004" width="80" height="80" as="geometry" />
+          <mxGeometry x="169.5" y="1002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-110" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="289.5" y="1004" width="80" height="80" as="geometry" />
+          <mxGeometry x="289.5" y="1002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-111" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="529.5" y="1004" width="80" height="80" as="geometry" />
+          <mxGeometry x="529.5" y="1002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-112" value="1 PWR&lt;br&gt;or&lt;br&gt;3 PWR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="409.5" y="1004" width="80" height="80" as="geometry" />
+          <mxGeometry x="409.5" y="1002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-116" value="at least&lt;br&gt;2 PWR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="539.5" y="1029" width="60" height="30" as="geometry" />
+          <mxGeometry x="539.5" y="1027" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g3FacJts447bwH2BUUsu-119" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="270" width="480" height="30" as="geometry" />
@@ -143,25 +143,25 @@
           <mxGeometry x="540" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-32" value="&amp;nbsp;Pawns that reach this field subsequently start here" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="149.5" y="1119" width="480" height="30" as="geometry" />
+          <mxGeometry x="150" y="1120" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-33" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;TWO &lt;/b&gt;CREATURES &lt;b&gt;OF A KIND&lt;/b&gt; OR A &lt;b&gt;MATCHED&amp;nbsp;PAIR&lt;br&gt;&lt;/b&gt;TO ADVANCE&amp;nbsp;&lt;b&gt;ONE CORRESPONDING PAWN&lt;/b&gt; HERE&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1189" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-34" value="&lt;i&gt;at least&lt;/i&gt;&lt;br&gt;2 PWR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="179.5" y="1029" width="60" height="30" as="geometry" />
+          <mxGeometry x="179.5" y="1027" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-35" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="149.5" y="949" width="480" height="30" as="geometry" />
+          <mxGeometry x="149.5" y="947" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-36" value="&lt;i&gt;exactly&lt;/i&gt;&lt;br&gt;1 PWR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="299.5" y="1029" width="60" height="30" as="geometry" />
+          <mxGeometry x="299.5" y="1027" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-40" value="&lt;font style=&quot;font-size: 16px&quot;&gt;WITCHER:&lt;br&gt;TEMPORARY BOON&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="630" y="940" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-41" value="While a Pawn is present here, the Witcher has access to Rare Treasures&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1139" width="480" height="30" as="geometry" />
+          <mxGeometry x="150" y="1140" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-42" value="&lt;span style=&quot;font-size: 36px&quot;&gt;0&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="719" y="119" width="60" height="30" as="geometry" />
