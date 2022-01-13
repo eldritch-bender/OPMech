@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T00:50:09.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rW893gVhkmef2FFgZrxX" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T00:53:11.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="cjZ3Z799w-5YXqAqJS6T" version="16.2.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1040" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-32" value="Whenever you sacrifice a creature whose Pawn is here, you may draw from the Shroud another of the same kind and cast it onto the Battlefield immediately." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;whiteSpace=wrap;html=1;spacingTop=0;spacingLeft=7;spacingRight=7;" parent="1" vertex="1">
           <mxGeometry x="140" y="1120" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-35" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-35" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE THE &lt;b&gt;LAST OF&amp;nbsp;A&amp;nbsp;MONSTER&lt;/b&gt; TO ADVANCE HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="940" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-46" value="&lt;span&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;4&lt;/font&gt;&lt;br&gt;points&lt;br&gt;per&lt;br&gt;Pawn&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-121" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BASE POWER&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;" parent="1" vertex="1">
           <mxGeometry x="80" y="768" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-122" value="&lt;font&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#660033;fillColor=#B3B3B3;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-122" value="&lt;font&gt;+1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#660033;fillColor=#B3B3B3;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="699" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-130" value="&lt;font&gt;II&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#999999;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="ZHAniX2luiYQjnmn3kyG-12" value="The second creature sacrificed for this position triggers its Culling effect.&lt;br&gt;&lt;font color=&quot;#660033&quot;&gt;While their Pawn is here, creatures start with 3 PWR in their favored zone.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
           <mxGeometry x="140" y="890" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZHAniX2luiYQjnmn3kyG-14" value="&lt;font color=&quot;#660033&quot;&gt;Creatures whose Pawn is here or beyond start with 2 PWR in their favored zone.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-14" value="&lt;font color=&quot;#660033&quot;&gt;Creatures whose Pawn is here or further down start with 2 PWR in their favored zone.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
           <mxGeometry x="140" y="430" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZHAniX2luiYQjnmn3kyG-25" value="&lt;span&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;3&lt;/font&gt;&lt;br&gt;points&lt;br&gt;per&lt;br&gt;Pawn&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
