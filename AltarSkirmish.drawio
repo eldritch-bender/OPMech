@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T00:20:21.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yqQ9hPrSo1hNeCP4dY7z" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T00:47:03.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1evmkVubZThcniiMO-37" version="16.2.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1040" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,9 +85,6 @@
         <mxCell id="g3FacJts447bwH2BUUsu-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1004" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3FacJts447bwH2BUUsu-119" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="250" width="480" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#B0E3E6;strokeColor=#0E8088;fontColor=#0E8088;" parent="1" vertex="1">
           <mxGeometry x="420" y="754" width="40" height="40" as="geometry" />
         </mxCell>
@@ -97,31 +94,19 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#BAC8D3;strokeColor=#23445D;fontColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="540" y="754" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-32" value="&amp;nbsp;Pawns that reach this field subsequently start here" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-32" value="Whenever you sacrifice a creature whose Pawn is here, you may draw from the Shroud another of the same kind and cast it onto the Battlefield immediately." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;whiteSpace=wrap;html=1;spacingTop=0;spacingLeft=7;spacingRight=7;" parent="1" vertex="1">
           <mxGeometry x="140" y="1120" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-35" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ONE&lt;/b&gt; CREATURE TO ADVANCE HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="940" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-42" value="&lt;span style=&quot;font-size: 36px&quot;&gt;0&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#99004D;" parent="1" vertex="1">
-          <mxGeometry x="620" y="109" width="60" height="30" as="geometry" />
+        <mxCell id="xXZptcnk_brkqJqVmBfV-46" value="&lt;span&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;4&lt;/font&gt;&lt;br&gt;points&lt;br&gt;per&lt;br&gt;Pawn&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="930" width="60" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-43" value="&lt;span style=&quot;font-size: 36px&quot;&gt;1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="620" y="344" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-44" value="&lt;span style=&quot;font-size: 36px&quot;&gt;2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="620" y="574" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-45" value="&lt;span style=&quot;font-size: 36px&quot;&gt;3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="620" y="799" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-46" value="&lt;span style=&quot;font-size: 36px&quot;&gt;4&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1029" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-121" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BASE POWER&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#99004D;" parent="1" vertex="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-121" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BASE POWER&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;" parent="1" vertex="1">
           <mxGeometry x="80" y="768" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-122" value="&lt;font color=&quot;#99004d&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#B3B3B3;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="xXZptcnk_brkqJqVmBfV-122" value="&lt;font&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#660033;fillColor=#B3B3B3;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="699" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-130" value="&lt;font&gt;II&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#999999;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
@@ -139,23 +124,29 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-174" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE &lt;b&gt;ANY&amp;nbsp;TWO&amp;nbsp;&lt;/b&gt;CREATURES &lt;b&gt;SIMULTANEOUSLY&lt;/b&gt;&lt;br&gt;TO ADVANCE &lt;b&gt;ONE MATCHING PAWN&lt;/b&gt; HERE&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="480" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R0jju0OTF_589DZmGp97-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BASE POWER&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#99004D;" parent="1" vertex="1">
+        <mxCell id="R0jju0OTF_589DZmGp97-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BASE POWER&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;" parent="1" vertex="1">
           <mxGeometry x="80" y="309" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="R0jju0OTF_589DZmGp97-10" value="&lt;font color=&quot;#99004d&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="R0jju0OTF_589DZmGp97-10" value="&lt;font&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#660033;fillColor=#E6E6E6;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="239" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZHAniX2luiYQjnmn3kyG-10" value="&amp;nbsp;Pawns that reach this field subsequently start here" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-10" value="Other creatures&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZHAniX2luiYQjnmn3kyG-11" value="&lt;span style=&quot;font-size: 36px&quot;&gt;0&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="620" y="109" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZHAniX2luiYQjnmn3kyG-12" value="The second Pawn sacrificed to reach this position triggers its Culling effect." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-12" value="The second creature sacrificed for this position triggers its Culling effect.&lt;br&gt;&lt;font color=&quot;#660033&quot;&gt;Creatures whose Pawn is here start with 3 PWR in their favored zone.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
           <mxGeometry x="140" y="890" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZHAniX2luiYQjnmn3kyG-13" value="&amp;nbsp;Pawns that reach this field subsequently start here" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-14" value="&lt;font color=&quot;#660033&quot;&gt;Creatures whose Pawn is here start with 2 PWR in their favored zone.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
           <mxGeometry x="140" y="430" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-25" value="&lt;span&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;3&lt;/font&gt;&lt;br&gt;points&lt;br&gt;per&lt;br&gt;Pawn&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="699" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-26" value="&lt;span&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;2&lt;/font&gt;&lt;br&gt;points&lt;br&gt;per&lt;br&gt;Pawn&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="469" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-27" value="&lt;span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;1&lt;/span&gt;&lt;br&gt;point&lt;br&gt;per&lt;br&gt;Pawn&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="239" width="60" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
