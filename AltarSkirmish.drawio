@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T00:57:28.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="oZ7fsolI2Ii3IaicWMxx" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T01:07:16.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nb-6SztDwFTcn-DUOyx-" version="16.2.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1040" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,8 +130,8 @@
         <mxCell id="R0jju0OTF_589DZmGp97-10" value="&lt;font&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#660033;fillColor=#E6E6E6;gradientColor=none;verticalAlign=middle;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="239" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZHAniX2luiYQjnmn3kyG-10" value="Other creatures&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="480" height="30" as="geometry" />
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#b46504&quot;&gt;Monster&lt;/font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font color=&quot;#56517e&quot;&gt;Adversity&lt;/font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#0e8088&quot;&gt;Trail&lt;/font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#23445d&quot;&gt;Any&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="140" y="617" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZHAniX2luiYQjnmn3kyG-12" value="The second creature sacrificed for this position triggers its Culling effect.&lt;br&gt;&lt;font color=&quot;#660033&quot;&gt;While their Pawn is here, creatures start with 3 PWR in their favored zone.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
           <mxGeometry x="140" y="890" width="480" height="30" as="geometry" />
@@ -150,6 +150,9 @@
         </mxCell>
         <mxCell id="ZHAniX2luiYQjnmn3kyG-28" value="&lt;i style=&quot;font-size: 14px&quot;&gt;SACRIFICE A &lt;b&gt;SINGLE&lt;/b&gt; CREATURE OF APPROPRIATE POWER&lt;br&gt;TO ADVANCE THE &lt;b&gt;MATCHING PAWN&lt;/b&gt; HERE&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHAniX2luiYQjnmn3kyG-29" value="When you advance a Pawn here, you may also look for a card of the indicated type." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=7;spacingRight=7;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
