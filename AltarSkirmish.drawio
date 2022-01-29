@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T22:15:45.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Nkmo8osMpva8pTaKb46A" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-29T23:28:30.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8JIaIoMq_-68pwJausN0" version="16.5.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="861" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,14 +106,11 @@
         <mxCell id="xXZptcnk_brkqJqVmBfV-122" value="&lt;font&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#660033;fillColor=#B3B3B3;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;" parent="1" vertex="1">
           <mxGeometry x="70" y="699" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-130" value="X" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#999999;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="929" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-131" value="PAWNS START" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;" parent="1" vertex="1">
-          <mxGeometry x="80" y="69" width="60" height="170" as="geometry" />
+        <mxCell id="xXZptcnk_brkqJqVmBfV-131" value="START POSITION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;" parent="1" vertex="1">
+          <mxGeometry x="80" y="10" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-132" value="&lt;font&gt;I&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="9" width="60" height="60" as="geometry" />
+          <mxGeometry x="620" y="9" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-174" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;SACRIFICE &lt;b style=&quot;font-size: 18px;&quot;&gt;ANY&amp;nbsp;TWO&amp;nbsp;&lt;/b&gt;CREATURES &lt;b style=&quot;font-size: 18px;&quot;&gt;SIMULTANEOUSLY&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;TO ADVANCE &lt;b style=&quot;font-size: 18px;&quot;&gt;ONE MATCHING PAWN&lt;/b&gt; HERE&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="140" y="480" width="480" height="30" as="geometry" />
@@ -154,8 +151,20 @@
         <mxCell id="oXEXAH-3kzme5YINiiaa-12" value="&lt;span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font face=&quot;Luxurious Roman&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Luxurious+Roman&quot;&gt;1&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;i&gt;point&lt;br&gt;per&lt;br&gt;Pawn&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#660033;labelBackgroundColor=none;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="620" y="239" width="60" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-172" value="&amp;nbsp; NEMESIS WINS&lt;br&gt;&lt;font style=&quot;font-weight: normal&quot; face=&quot;Georgia&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 12px&quot;&gt;when all Pawns are here&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="989" width="60" height="170" as="geometry" />
+        <mxCell id="xXZptcnk_brkqJqVmBfV-172" value="NEMESIS WINS&lt;br&gt;&lt;font style=&quot;font-weight: normal&quot; face=&quot;Georgia&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 12px&quot;&gt;when all Pawns are here&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="930" width="60" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="8KatNTizSnMYKGegr9bk-1" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#999999;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="620" y="929" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8KatNTizSnMYKGegr9bk-2" value="&lt;font&gt;II&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="620" y="239" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8KatNTizSnMYKGegr9bk-3" value="&lt;font&gt;III&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#CCCCCC;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="620" y="469" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8KatNTizSnMYKGegr9bk-4" value="&lt;font&gt;IV&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#000000;fillColor=#B3B3B3;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="620" y="699" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
