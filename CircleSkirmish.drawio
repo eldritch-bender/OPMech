@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T17:03:35.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3Ue832iGA-72mkfIAHju" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T17:07:06.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QzkSDQq_ipFIwzydP5O2" version="20.4.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="622" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,9 +55,6 @@
         <mxCell id="g3FacJts447bwH2BUUsu-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#b46504&quot; style=&quot;font-size: 14px;&quot;&gt;Hand Size&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="776" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3FacJts447bwH2BUUsu-83" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SACRIFICE&amp;nbsp;&lt;b style=&quot;font-size: 18px&quot;&gt;TWO &lt;/b&gt;CREATURES OF A KIND &lt;b&gt;DURING&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;A HUNT&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/b&gt;TO ADVANCE&amp;nbsp;THE &lt;b style=&quot;font-size: 18px&quot;&gt;MATCHING PAWN&amp;nbsp;&lt;/b&gt;HERE&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="140" y="710" width="480" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xXZptcnk_brkqJqVmBfV-121" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;POWER BOOST&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="80" y="701" width="60" height="229" as="geometry" />
         </mxCell>
@@ -87,9 +84,6 @@
         </mxCell>
         <mxCell id="oXEXAH-3kzme5YINiiaa-11" value="&lt;span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font face=&quot;Luxurious Roman&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Luxurious+Roman&quot;&gt;4&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;i&gt;points&lt;br&gt;per&lt;br&gt;Pawn&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#660033;labelBackgroundColor=none;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="620" y="699" width="60" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="xXZptcnk_brkqJqVmBfV-172" value="NEMESIS WINS&lt;br&gt;&lt;font style=&quot;font-weight: normal&quot; face=&quot;Georgia&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 12px&quot;&gt;when all Pawns are here&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="930" width="60" height="229" as="geometry" />
         </mxCell>
         <mxCell id="8KatNTizSnMYKGegr9bk-1" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fontColor=#000000;fillColor=#999999;gradientColor=none;verticalAlign=middle;horizontal=0;fontFamily=Luxurious Roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLuxurious%2BRoman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="620" y="929" width="60" height="60" as="geometry" />
@@ -136,7 +130,7 @@
         <mxCell id="_O27XECYRmZ1K9vp6goM-15" value="&lt;span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font face=&quot;Luxurious Roman&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Luxurious+Roman&quot;&gt;0&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;i&gt;point&lt;br&gt;per&lt;br&gt;Pawn&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#660033;labelBackgroundColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="620" y="929" width="60" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="_O27XECYRmZ1K9vp6goM-16" value="&lt;font color=&quot;#660033&quot;&gt;Pawns in this position may no longer be removed.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=3;spacingRight=3;fontFamily=Georgia;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="_O27XECYRmZ1K9vp6goM-16" value="&lt;font color=&quot;#660033&quot;&gt;Pawns in this position may no longer be removed.&lt;br&gt;When all Pawns are here, the Sorcerer wins.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=3;spacingRight=3;fontFamily=Georgia;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="140" y="1120" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_O27XECYRmZ1K9vp6goM-17" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
@@ -150,6 +144,12 @@
         </mxCell>
         <mxCell id="_O27XECYRmZ1K9vp6goM-20" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1004.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_O27XECYRmZ1K9vp6goM-21" value="&lt;span style=&quot;font-size: 18px&quot;&gt;PROMOTE A &lt;span style=&quot;font-size: 18px;&quot;&gt;SUMMON&lt;/span&gt;&amp;nbsp;OF &lt;b style=&quot;font-size: 18px&quot;&gt;MATCHING COLOR&lt;/b&gt;&amp;nbsp;&amp;amp; &lt;b&gt;PWR&lt;/b&gt; HERE&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Gentium Book Basic;fontStyle=0;fontSize=18;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;" vertex="1" parent="1">
+          <mxGeometry x="140" y="714" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_O27XECYRmZ1K9vp6goM-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SORCERER WINS&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;fontStyle=1;rounded=0;fontColor=#660033;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="929" width="60" height="229" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
