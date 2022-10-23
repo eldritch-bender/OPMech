@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T00:47:37.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36    " etag="HGRFg9wcYnbJ-BfD5BD5" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T00:49:11.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36    " etag="xBGddY7_hFJYlf9yHE1D" version="20.5.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1459" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,18 +51,6 @@
         </mxCell>
         <mxCell id="_O27XECYRmZ1K9vp6goM-16" value="&lt;font color=&quot;#660033&quot;&gt;Pawns here may no longer be removed and remain between Contracts. When all Pawns are here, the Conjuror wins.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=3;spacingRight=3;fontFamily=Georgia;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="140" y="1120" width="480" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_O27XECYRmZ1K9vp6goM-24" value="&lt;font&gt;Hunts&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
-          <mxGeometry x="155" y="758" width="90" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="_O27XECYRmZ1K9vp6goM-27" value="&lt;font&gt;Spell Book&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
-          <mxGeometry x="395" y="758" width="90" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="_O27XECYRmZ1K9vp6goM-28" value="&lt;font&gt;Spells&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
-          <mxGeometry x="275" y="758" width="90" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="_O27XECYRmZ1K9vp6goM-30" value="Monsters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
-          <mxGeometry x="515" y="758" width="90" height="16" as="geometry" />
         </mxCell>
         <mxCell id="_O27XECYRmZ1K9vp6goM-32" value="&lt;font&gt;+1 (3 » 4)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
           <mxGeometry x="155" y="854" width="90" height="20" as="geometry" />
@@ -144,6 +132,18 @@
         </mxCell>
         <mxCell id="4puakNMa-LfbzIZQXIiP-69" value="&lt;font&gt;+1/Hunt&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" vertex="1" parent="1">
           <mxGeometry x="515" y="854" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_O27XECYRmZ1K9vp6goM-24" value="&lt;font&gt;Hunts&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="155" y="756" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="_O27XECYRmZ1K9vp6goM-27" value="&lt;font&gt;Spell Book&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="395" y="756" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="_O27XECYRmZ1K9vp6goM-28" value="&lt;font&gt;Spells&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="275" y="756" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="_O27XECYRmZ1K9vp6goM-30" value="Monsters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=6;spacingRight=6;fontFamily=Gentium Book Basic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGentium%2BBook%2BBasic;fontStyle=1;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="515" y="756" width="90" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
